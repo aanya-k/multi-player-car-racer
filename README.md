@@ -1,1 +1,2 @@
-# multi-player-car-racer
+# synchronousBallMovement
+Ball moving synchronously
